@@ -1,0 +1,13 @@
+{
+  "name": "simuladorbrigadebar",
+  "version": "1.0.0",
+  "description": "simulador do que pode acontecer em uma leve ida ao bar",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "P.Ivo",
+  "license": "ISC"
+  
+}

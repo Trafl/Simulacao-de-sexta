@@ -1,0 +1,39 @@
+body{
+  text-align: center;
+  background-image: url(https://th.bing.com/th/id/R.02f41fb0e70bdf138dab08c60b8fcbb0?rik=6NfyX%2bCFoLeuog&riu=http%3a%2f%2f2.bp.blogspot.com%2f-ZMqYw8hLXp0%2fUVDEBz5Up4I%2fAAAAAAAAACw%2fx-CiYOLTCpo%2fs1600%2ftaverna.jpg&ehk=rg4ube9BsZ7e1Kb5TOgPyuL595OUbaFfdUCyOqjj7ts%3d&risl=&pid=ImgRaw&r=0://th.bing.com/th/id/OIP.jDXtezA5uV2TOIH9sWBYSgHaE-?pid=ImgDet&rs=1);  
+  font-family: 'Aboreto', cursive;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+main h1 {
+  color: whitesmoke;
+  text-size-adjust: 5rem;
+}
+
+main h1:hover{
+  background-color: rgb(253, 5, 5);
+  filter: brightness(1.5);
+  transition-delay: 0.1s;
+
+
+}
+
+main div h3 {
+  color: whitesmoke;
+  font-size: 2rem;
+}
+
+main button{
+  background-color: rgb(158, 156, 156);
+  border-radius: 0.5rem;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  margin-top: 10rem;
+}
+
+main button:hover{
+  filter: brightness(1.5);
+  transition-delay: 0.1s;
+}
