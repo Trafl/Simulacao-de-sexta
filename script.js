@@ -91,4 +91,7 @@ const close = document.getElementById('irPraCasa');
 start.addEventListener('click', realCombat);
 close.addEventListener('click', irParaCasa);
 
+//Ainda tera novas atualizações 
+
+
 
